@@ -1,0 +1,92 @@
+
+     header{
+    background-color: black;
+    padding: 20px;
+} h1 {
+        color: antiquewhite;
+      }
+h1,ul{
+    text-align: center;
+}
+ul li{
+    display: inline;
+    padding-right:60px;
+    padding-left: 60px;
+    color: cornsilk;
+    font-size: smaller;
+}
+ul a{
+    text-decoration: none;
+}
+a li:hover{
+    font-size: 23px ;
+    color: pink;
+}
+img{
+    border-radius: 10%;
+}
+
+#home{
+    text-align: center;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+}
+#about{
+    text-align: center;
+    color: blue;
+    color: black;
+      }
+#about h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+#skills li{
+   color: brown;
+}
+
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table th{
+    background-color: yellowgreen;
+}
+table td{
+    background-color: bisque;
+}
+
+#about h1{
+    color: rgb(231, 8, 53);
+}
+#about{
+    display:flex;
+    padding: 30px;
+}
+#about div{
+    padding: 20px;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+div1 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+  }
+  
+  .div2 {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+    border: 1px solid red;
+  }
+  main{
+      background-color: rgb(247, 172, 144);
+  }
+  
+    
